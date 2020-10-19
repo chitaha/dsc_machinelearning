@@ -2,8 +2,8 @@
 
 ## Database is : MySQL
 
-Install Mysql
-Create a database
+Install Mysql  
+Create a database with any name that you like    
 
 ## Installing Django
 
