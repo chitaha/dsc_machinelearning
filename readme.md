@@ -28,7 +28,7 @@ Create a database
 `Quit the server with CONTROL-C.`  
   
 
-''''
-sudo apt-get install libmysqlclient-dev
-pip3 install mysqlclient
-''''
+''''  
+sudo apt-get install libmysqlclient-dev  
+pip3 install mysqlclient  
+''''  
